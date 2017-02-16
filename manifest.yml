@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: cs9549b
+  host: cs9549b
+  disk_quota: 1024M
